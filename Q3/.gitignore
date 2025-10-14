@@ -1,0 +1,42 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package manager
+Packages/packages-lock.json
+
+# Crash reports
+sysinfo.txt
+
+# Recordings (keep only your final video)
+Recordings/*.mp4
+
+# If you have additional large raw videos, ignore them
+*.avi
+*.mov
+*.mkv
